@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<NoWarn>1701;1702;1591</NoWarn>
+		<DocumentationFile>sxgl.Core.xml</DocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="sxgl.Core.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Furion" Version="4.9.7.120" />
+		<PackageReference Include="Furion.Extras.Authentication.JwtBearer" Version="4.9.7.120" />
+		<PackageReference Include="Furion.Extras.ObjectMapper.Mapster" Version="4.9.7.120" />
+	</ItemGroup>
+
+</Project>

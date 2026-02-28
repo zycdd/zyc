@@ -1,0 +1,13 @@
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\sxgl.Core.csproj.AssemblyReference.cache
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\sxgl.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\sxgl.Core.AssemblyInfoInputs.cache
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\sxgl.Core.AssemblyInfo.cs
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\sxgl.Core.csproj.CoreCompileInputs.cache
+E:\实习管理\sxgl\sxgl.Core\bin\Debug\net9.0\sxgl.Core.deps.json
+E:\实习管理\sxgl\sxgl.Core\bin\Debug\net9.0\sxgl.Core.dll
+E:\实习管理\sxgl\sxgl.Core\bin\Debug\net9.0\sxgl.Core.pdb
+E:\实习管理\sxgl\sxgl.Core\bin\Debug\net9.0\sxgl.Core.xml
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\sxgl.Core.dll
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\refint\sxgl.Core.dll
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\sxgl.Core.pdb
+E:\实习管理\sxgl\sxgl.Core\obj\Debug\net9.0\ref\sxgl.Core.dll

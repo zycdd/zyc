@@ -1,0 +1,658 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\kcservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\kcservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\dtos\\kcdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\dtos\\kcdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\kcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\kcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\seeddata\\authseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\seeddata\\authseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\stuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\stuservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\teaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\teaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA769D36-9D55-47A6-945F-1687EA95179F}|sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.database.migrations\\sxgl.database.migrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA769D36-9D55-47A6-945F-1687EA95179F}|sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj|solutionrelative:sxgl.database.migrations\\sxgl.database.migrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\stub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\stub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA769D36-9D55-47A6-945F-1687EA95179F}|sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.database.migrations\\migrations\\20260226060209_v1.0.8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA769D36-9D55-47A6-945F-1687EA95179F}|sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj|solutionrelative:sxgl.database.migrations\\migrations\\20260226060209_v1.0.8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA769D36-9D55-47A6-945F-1687EA95179F}|sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.database.migrations\\migrations\\20260226060328_v1.0.9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA769D36-9D55-47A6-945F-1687EA95179F}|sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj|solutionrelative:sxgl.database.migrations\\migrations\\20260226060328_v1.0.9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\systemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\systemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\dtos\\teadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\dtos\\teadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\seeddata\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\seeddata\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\dtos\\studto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\dtos\\studto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\teab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\teab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\xqservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\xqservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\dtos\\xqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\dtos\\xqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\xqb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\xqb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\zyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\zyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\xyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\xyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\dtos\\zydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\dtos\\zydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\zyb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\zyb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\entitys\\xyb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\entitys\\xyb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\dtos\\xydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\dtos\\xydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D14BB78-DA2A-4040-B9DB-5A515B599181}|sxgl.Web.Core\\sxgl.Web.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.web.core\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D14BB78-DA2A-4040-B9DB-5A515B599181}|sxgl.Web.Core\\sxgl.Web.Core.csproj|solutionrelative:sxgl.web.core\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D14BB78-DA2A-4040-B9DB-5A515B599181}|sxgl.Web.Core\\sxgl.Web.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.web.core\\handlers\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D14BB78-DA2A-4040-B9DB-5A515B599181}|sxgl.Web.Core\\sxgl.Web.Core.csproj|solutionrelative:sxgl.web.core\\handlers\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\config\\jwt.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\config\\jwt.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\services\\isystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\services\\isystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\sxgl.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\sxgl.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.core\\rbac\\tools\\dataencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB30091-15C7-4FD9-AB7D-266814F360F5}|sxgl.Core\\sxgl.Core.csproj|solutionrelative:sxgl.core\\rbac\\tools\\dataencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.application\\sxgl.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB699EE9-43A8-46F2-A855-04A26DE63372}|sxgl.Application\\sxgl.Application.csproj|solutionrelative:sxgl.application\\sxgl.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.entityframework.core\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|solutionrelative:sxgl.entityframework.core\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.entityframework.core\\sxgl.entityframework.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|solutionrelative:sxgl.entityframework.core\\sxgl.entityframework.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.entityframework.core\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|solutionrelative:sxgl.entityframework.core\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|e:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.entityframework.core\\dbcontexts\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD77E5C-138D-4F2D-B709-F9020F306AF3}|sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj|solutionrelative:sxgl.entityframework.core\\dbcontexts\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KcServices.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\KcServices.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\KcServices.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\KcServices.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\KcServices.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwGEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:49:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kcb.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Kcb.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\Kcb.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Kcb.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\Kcb.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:37:35.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260226060328_v1.0.9.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Database.Migrations\\Migrations\\20260226060328_v1.0.9.cs",
+              "RelativeDocumentMoniker": "sxgl.Database.Migrations\\Migrations\\20260226060328_v1.0.9.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Database.Migrations\\Migrations\\20260226060328_v1.0.9.cs",
+              "RelativeToolTip": "sxgl.Database.Migrations\\Migrations\\20260226060328_v1.0.9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:04:23.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StuServices.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\StuServices.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\StuServices.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\StuServices.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\StuServices.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA1wGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:51:20.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StuDTO.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\StuDTO.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Dtos\\StuDTO.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\StuDTO.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Dtos\\StuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:48:27.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stub.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Stub.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\Stub.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Stub.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\Stub.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:40:20.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeaServices.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\TeaServices.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\TeaServices.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\TeaServices.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\TeaServices.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:40:15.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Teab.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Teab.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\Teab.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Teab.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\Teab.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:29:39.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "XyServices.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\XyServices.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\XyServices.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\XyServices.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\XyServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:00:36.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "XyDTO.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\XyDTO.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Dtos\\XyDTO.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\XyDTO.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Dtos\\XyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:25:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Xyb.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Xyb.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\Xyb.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Xyb.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\Xyb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:39:48.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISystemService.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\ISystemService.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\ISystemService.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\ISystemService.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\ISystemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:59:37.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sxgl.Database.Migrations.csproj",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj",
+              "RelativeDocumentMoniker": "sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj",
+              "RelativeToolTip": "sxgl.Database.Migrations\\sxgl.Database.Migrations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T01:35:55.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\UserServices.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\UserServices.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\UserServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:04:17.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KcDTO.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\KcDTO.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Dtos\\KcDTO.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\KcDTO.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Dtos\\KcDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:43:12.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthSeed.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\SeedData\\AuthSeed.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\SeedData\\AuthSeed.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\SeedData\\AuthSeed.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\SeedData\\AuthSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:44:38.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260226060209_v1.0.8.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Database.Migrations\\Migrations\\20260226060209_v1.0.8.cs",
+              "RelativeDocumentMoniker": "sxgl.Database.Migrations\\Migrations\\20260226060209_v1.0.8.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Database.Migrations\\Migrations\\20260226060209_v1.0.8.cs",
+              "RelativeToolTip": "sxgl.Database.Migrations\\Migrations\\20260226060209_v1.0.8.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:04:33.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Web.Core\\Startup.cs",
+              "RelativeDocumentMoniker": "sxgl.Web.Core\\Startup.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Web.Core\\Startup.cs",
+              "RelativeToolTip": "sxgl.Web.Core\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:02:01.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SystemService.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\SystemService.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\SystemService.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\SystemService.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\SystemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:59:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtHandler.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Web.Core\\Handlers\\JwtHandler.cs",
+              "RelativeDocumentMoniker": "sxgl.Web.Core\\Handlers\\JwtHandler.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Web.Core\\Handlers\\JwtHandler.cs",
+              "RelativeToolTip": "sxgl.Web.Core\\Handlers\\JwtHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:53:32.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Auth.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\Auth.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Auth.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T01:59:13.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Xqb.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Xqb.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\Xqb.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Xqb.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\Xqb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:33:18.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserSeed.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\SeedData\\UserSeed.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\SeedData\\UserSeed.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\SeedData\\UserSeed.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\SeedData\\UserSeed.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:22:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeaDTO.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\TeaDTO.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Dtos\\TeaDTO.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\TeaDTO.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Dtos\\TeaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:45:38.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Zyb.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Zyb.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\Zyb.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\Zyb.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\Zyb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T01:46:27.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XqServices.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\XqServices.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\XqServices.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\XqServices.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\XqServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:42:14.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ZyService.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\ZyService.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Services\\ZyService.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Services\\ZyService.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Services\\ZyService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:00:52.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ZyDTO.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\ZyDTO.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Dtos\\ZyDTO.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\ZyDTO.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Dtos\\ZyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T02:15:42.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Jwt.json",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\Config\\Jwt.json",
+              "RelativeDocumentMoniker": "sxgl.Application\\Config\\Jwt.json",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\Config\\Jwt.json",
+              "RelativeToolTip": "sxgl.Application\\Config\\Jwt.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-12T02:03:21.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\User.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\Entitys\\User.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\Entitys\\User.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\Entitys\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:18:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "XqDTO.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\XqDTO.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Dtos\\XqDTO.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\XqDTO.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Dtos\\XqDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:46:17.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DataEncryption.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\tools\\DataEncryption.cs",
+              "RelativeDocumentMoniker": "sxgl.Core\\RBAC\\tools\\DataEncryption.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\RBAC\\tools\\DataEncryption.cs",
+              "RelativeToolTip": "sxgl.Core\\RBAC\\tools\\DataEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T01:33:21.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "sxgl.Core.csproj",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\sxgl.Core.csproj",
+              "RelativeDocumentMoniker": "sxgl.Core\\sxgl.Core.csproj",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Core\\sxgl.Core.csproj",
+              "RelativeToolTip": "sxgl.Core\\sxgl.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T07:17:27.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALQTAAAAAAAAAAAowOQTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-12T03:02:35.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "sxgl.Application\\System\\Dtos\\LoginDTO.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\System\\Dtos\\LoginDTO.cs",
+              "RelativeToolTip": "sxgl.Application\\System\\Dtos\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:37:16.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "sxgl.Application.csproj",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\sxgl.Application.csproj",
+              "RelativeDocumentMoniker": "sxgl.Application\\sxgl.Application.csproj",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.Application\\sxgl.Application.csproj",
+              "RelativeToolTip": "sxgl.Application\\sxgl.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T02:02:56.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\Startup.cs",
+              "RelativeDocumentMoniker": "sxgl.EntityFramework.Core\\Startup.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\Startup.cs",
+              "RelativeToolTip": "sxgl.EntityFramework.Core\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:01:52.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "sxgl.EntityFramework.Core.csproj",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj",
+              "RelativeDocumentMoniker": "sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj",
+              "RelativeToolTip": "sxgl.EntityFramework.Core\\sxgl.EntityFramework.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T07:11:18.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "database.json",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\database.json",
+              "RelativeDocumentMoniker": "sxgl.EntityFramework.Core\\database.json",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\database.json",
+              "RelativeToolTip": "sxgl.EntityFramework.Core\\database.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T07:12:25.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DefaultDbContext.cs",
+              "DocumentMoniker": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\DbContexts\\DefaultDbContext.cs",
+              "RelativeDocumentMoniker": "sxgl.EntityFramework.Core\\DbContexts\\DefaultDbContext.cs",
+              "ToolTip": "E:\\\u5B9E\u4E60\u7BA1\u7406\\sxgl\\sxgl.EntityFramework.Core\\DbContexts\\DefaultDbContext.cs",
+              "RelativeToolTip": "sxgl.EntityFramework.Core\\DbContexts\\DefaultDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:13:14.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

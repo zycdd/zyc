@@ -1,0 +1,74 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace sxgl.Database.Migrations.Migrations
+{
+    /// <inheritdoc />
+    public partial class v104 : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 1,
+                column: "Auth1",
+                value: "system,user,xy");
+
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 2,
+                column: "Auth1",
+                value: "");
+
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 3,
+                column: "Auth1",
+                value: "");
+
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 4,
+                column: "Auth1",
+                value: "");
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 1,
+                column: "Auth1",
+                value: "system,user");
+
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 2,
+                column: "Auth1",
+                value: "system,user");
+
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 3,
+                column: "Auth1",
+                value: "user");
+
+            migrationBuilder.UpdateData(
+                table: "auth",
+                keyColumn: "Id",
+                keyValue: 4,
+                column: "Auth1",
+                value: "user");
+        }
+    }
+}

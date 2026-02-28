@@ -1,0 +1,17 @@
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\bin\Debug\net9.0\database.json
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\bin\Debug\net9.0\sxgl.EntityFramework.Core.deps.json
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\bin\Debug\net9.0\sxgl.EntityFramework.Core.dll
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\bin\Debug\net9.0\sxgl.EntityFramework.Core.pdb
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\bin\Debug\net9.0\sxgl.Core.dll
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\bin\Debug\net9.0\sxgl.Core.pdb
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\bin\Debug\net9.0\sxgl.Core.xml
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.EntityFramework.Core.csproj.AssemblyReference.cache
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.EntityFramework.Core.AssemblyInfoInputs.cache
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.EntityFramework.Core.AssemblyInfo.cs
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.EntityFramework.Core.csproj.CoreCompileInputs.cache
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.Ent.009C84B2.Up2Date
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.EntityFramework.Core.dll
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\refint\sxgl.EntityFramework.Core.dll
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\sxgl.EntityFramework.Core.pdb
+E:\实习管理\sxgl\sxgl.EntityFramework.Core\obj\Debug\net9.0\ref\sxgl.EntityFramework.Core.dll

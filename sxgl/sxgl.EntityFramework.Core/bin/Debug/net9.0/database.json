@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MySqlConnectionString": "Server=localhost;Database=sxgl;Uid=root;Pwd=123456;Port=3306;Charset=utf8mb4;SslMode=Preferred;"
+  }
+}

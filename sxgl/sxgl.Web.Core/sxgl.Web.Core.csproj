@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<NoWarn>1701;1702;1591</NoWarn>
+		<DocumentationFile>sxgl.Web.Core.xml</DocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="sxgl.Web.Core.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\sxgl.Application\sxgl.Application.csproj" />
+		<ProjectReference Include="..\sxgl.Database.Migrations\sxgl.Database.Migrations.csproj" />
+	</ItemGroup>
+
+</Project>
